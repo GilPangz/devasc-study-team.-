@@ -1,1 +1,3 @@
 IloveLinux
+I understand linux
+I am the best in CLI command
